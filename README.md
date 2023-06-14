@@ -46,6 +46,6 @@
 🎥 url vídeo demonstração (aplicação rodando):
 
 -------------------
-📚 Referências:
+## 📚 Referências: ##
 
 -------------------
